@@ -60,3 +60,5 @@ If you don’t — no amount of $NOCKS will help you anyway.
 ---
 
 Stay sharp, build smart, and welcome to the tribe.
+
+See [toolbox](miner-toolbox/README.md)
