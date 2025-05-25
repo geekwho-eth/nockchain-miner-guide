@@ -9,7 +9,13 @@ A friend from Discord shared the CheckWallet script, which is used to:
 - Show global network statistics;
 - Provide a way to switch wallets.
 
-see [check_wallet_v1](./check_wallet_v1.sh)
+See [check_wallet_v1](./check_wallet_v1.sh)
+
+Just other python script:
+
+See [check_summery.py](./check_summery.py)
+
+Only works on commit: [improved logging for less confusion about networking](https://github.com/zorp-corp/nockchain/commit/c3a0723a31dc5476f51c747ba150be1fb135a77a).
 
 ## Frequently Asked Questions
 

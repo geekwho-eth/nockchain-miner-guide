@@ -5,7 +5,7 @@
 # 2025.05.24 geekwho first release.
 # see origin code : https://pastebin.com/5iEeswwf. thx dig301.
 
-# serach socket with current dir
+# search socket with current dir
 workDir=$(cd $(dirname $0);cd ..;pwd)
 cd $workDir
 echo $workDir

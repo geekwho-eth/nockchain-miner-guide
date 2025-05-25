@@ -61,4 +61,7 @@ If you don’t — no amount of $NOCKS will help you anyway.
 
 Stay sharp, build smart, and welcome to the tribe.
 
-See [toolbox](miner-toolbox/README.md)
+Please see the following links:
+
+1. [nockchain official repo](https://github.com/zorp-corp/nockchain)
+2. [toolbox](miner-toolbox/README.md)
